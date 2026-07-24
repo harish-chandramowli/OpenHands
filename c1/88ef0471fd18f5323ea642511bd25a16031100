@@ -1,0 +1,28 @@
+src/components/features/conversation-panel/conversation-card/conversation-card-footer.tsx
+  s_adc44fd6fd1be7::t_4434a957cc80e8 22-28
+  s_adc44fd6fd1be7::t_24fc69664b18df 133-138
+  s_adc44fd6fd1be7::t_8697907b63a985 166,176-186
+__tests__/components/features/conversation-panel/conversation-card.test.tsx
+  s_adc44fd6fd1be7::t_ed7587da234e44 16
+  s_adc44fd6fd1be7::t_36a96b6ef99a3b 647-697
+__tests__/api/agent-server-conversation-service.test.ts
+  s_adc44fd6fd1be7::t_9e81cd7e694e3c 810-861
+src/api/conversation-service/agent-server-conversation-service.types.ts
+  s_adc44fd6fd1be7::t_8baeb7cc52349d 175-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "c188ef0471fd18f5323ea642511bd25a16031100",
+  "prompts": {},
+  "sessions": {
+    "s_adc44fd6fd1be7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f2853b7a-7853-4978-ad30-682f7f6a494b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
