@@ -1,0 +1,66 @@
+src/components/features/conversation-panel/conversation-card/conversation-card-footer.tsx
+  s_5f98c1ac249653::t_968a2e13e62529 146-164
+  s_5f98c1ac249653::t_c775f82d0c65b1 18
+  s_5f98c1ac249653::t_e82cebd58d7f66 125-126
+  s_5f98c1ac249653::t_65dc1074aa8258 77-78
+  s_5f98c1ac249653::t_c0abeb8911413e 52-62
+__tests__/components/features/conversation-panel/conversation-card.test.tsx
+  s_5f98c1ac249653::t_071df1289015d4 607
+  s_5f98c1ac249653::t_627f25981967a2 591-606,608-662
+src/stores/conversation-panel-preferences-store.ts
+  s_5f98c1ac249653::t_dacca6174f4f42 58
+  s_5f98c1ac249653::t_184c05cae9eb93 92-98
+  s_5f98c1ac249653::t_c4f0499d8255b5 26
+  s_5f98c1ac249653::t_231761955076c9 121
+  s_5f98c1ac249653::t_5946f62db125a1 41-42
+src/components/features/conversation-panel/conversation-card/conversation-card.tsx
+  s_5f98c1ac249653::t_a7e8e2cd4db1b6 73-74
+  s_5f98c1ac249653::t_7b01d7ccb751ec 42-44
+  s_5f98c1ac249653::t_0ed45ced32e8eb 9
+  s_5f98c1ac249653::t_a44bb11fb640ce 188-189
+  s_5f98c1ac249653::t_ad0a0829cbb45a 324-325
+__tests__/stores/conversation-panel-preferences-store.test.ts
+  s_5f98c1ac249653::t_86160ef1d3c615 16
+  s_5f98c1ac249653::t_a0a18932f125b2 81
+__tests__/components/features/conversation-panel/conversation-panel-filter-menu.test.tsx
+  s_5f98c1ac249653::t_018058537dd895 35-36
+src/components/features/conversation-panel/conversation-panel.tsx
+  s_5f98c1ac249653::t_dfaf29cb10246d 125-130
+  s_5f98c1ac249653::t_2476235bd96d6e 778-779
+  s_5f98c1ac249653::t_68205e6f371831 607-608
+  s_5f98c1ac249653::t_163883aeb59163 687-688
+  s_5f98c1ac249653::t_d982b5cffb4f10 709
+src/components/features/conversation-panel/conversation-panel-filter-menu.tsx
+  s_5f98c1ac249653::t_6ccd6e19906f9a 16
+  s_5f98c1ac249653::t_661dfa5c091934 56-57
+  s_5f98c1ac249653::t_704ed9ed9b2d32 81-82
+  s_5f98c1ac249653::t_a3ca692856e07a 275-283
+  s_5f98c1ac249653::t_d92daa3a2726dc 274
+src/api/conversation-service/agent-server-conversation-service.types.ts
+  s_5f98c1ac249653::t_83c274f4db8c5d 166-176
+src/api/agent-server-adapter.ts
+  s_5f98c1ac249653::t_b589a9bcfb6ce4 425-449
+  s_5f98c1ac249653::t_89b13600540caa 331
+src/components/features/conversation-panel/compact-conversation-row.tsx
+  s_5f98c1ac249653::t_d7e30d7e33d3cf 54-55
+  s_5f98c1ac249653::t_3bc12e71dcba20 29-30
+  s_5f98c1ac249653::t_a02e4c642d73aa 83-84
+src/i18n/translation.json
+  s_5f98c1ac249653::t_6fca155105feaf 17631-17647
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "f183f3007c53fad227e701489e839524311fa79a",
+  "prompts": {},
+  "sessions": {
+    "s_5f98c1ac249653": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f86f149f-f382-4e17-8621-1decf5cc5c81",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
