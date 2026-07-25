@@ -1,0 +1,19 @@
+src/hooks/query/use-unified-vscode-url.ts
+  s_bfc7983e410962::t_6b8afb7ec9464d 62-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "70b8555460f34df92718105a09f15af395e9195a",
+  "prompts": {},
+  "sessions": {
+    "s_bfc7983e410962": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bced4d7c-b48f-41c8-b65e-ee8e133b6ee4",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
