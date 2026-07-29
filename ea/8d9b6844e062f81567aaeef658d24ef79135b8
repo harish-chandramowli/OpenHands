@@ -1,0 +1,32 @@
+config/defaults.json
+  s_b46a209719b8d6::t_2eede9e1c1e536 4,6
+  s_b46a209719b8d6::t_73af760abcd86e 12
+scripts/dev-safe.mjs
+  s_b46a209719b8d6::t_623ec8694fbbd9 407
+  s_b46a209719b8d6::t_69cacefcc4754e 56
+AGENTS.md
+  s_b46a209719b8d6::t_3736e50b7cd784 495
+  s_b46a209719b8d6::t_51fb95c0014f2c 498
+.github/workflows/mock-llm-e2e.yml
+  s_b46a209719b8d6::t_9e8957d412b896 111
+__tests__/scripts/dev-safe.test.ts
+  s_b46a209719b8d6::t_6b84d8bac04b27 392,394,396,398,403
+scripts/check-sdk-version-sync.mjs
+  s_b46a209719b8d6::t_5d955ede0479ad 22,81,263-265,279
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ea8d9b6844e062f81567aaeef658d24ef79135b8",
+  "prompts": {},
+  "sessions": {
+    "s_b46a209719b8d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9789e278-b691-4f23-8613-4fee8fe5ab11",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
