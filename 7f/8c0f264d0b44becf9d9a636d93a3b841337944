@@ -1,0 +1,46 @@
+docker/entrypoint.sh
+  s_b46a209719b8d6::t_b83e41bbd914ec 65-74
+  s_b46a209719b8d6::t_e65c736ea353e2 289-290
+  s_b46a209719b8d6::t_eeba62b32a49dc 20-23
+  s_b46a209719b8d6::t_4985883587d620 317-318
+config/defaults.json
+  s_b46a209719b8d6::t_54c91814643ada 22-24
+  s_b46a209719b8d6::t_08aff90669ec8a 31-33
+__tests__/scripts/docker-vscode-route-sync.test.ts
+  s_b46a209719b8d6::t_8011828b089482 1-29,31-113
+  s_b46a209719b8d6::t_c935efbe5ea0c4 30
+__tests__/scripts/dev-with-automation.test.ts
+  s_b46a209719b8d6::t_3f9f9c17983965 26
+  s_b46a209719b8d6::t_8c92640613d1fe 520-602
+  s_b46a209719b8d6::t_2dece090928be2 35-40
+  s_b46a209719b8d6::t_f10b3f5130637a 603
+scripts/dev-safe.mjs
+  s_b46a209719b8d6::t_91d8322eb0614c 40-44
+  s_b46a209719b8d6::t_f83bed39814418 594
+  s_b46a209719b8d6::t_0aff4c1083fe64 713-717
+  s_b46a209719b8d6::t_db5b02d62f968a 654
+docker/Dockerfile
+  s_b46a209719b8d6::t_6a1e63268d05f5 65
+  s_b46a209719b8d6::t_c96f0c6afc502a 59
+scripts/dev-with-automation.mjs
+  s_b46a209719b8d6::t_777194beed63a1 1528
+  s_b46a209719b8d6::t_d4d66e7f6309da 432-435
+  s_b46a209719b8d6::t_84fd0613c5ef12 737-741
+  s_b46a209719b8d6::t_ad12e609d37925 700-713,742
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7f8c0f264d0b44becf9d9a636d93a3b841337944",
+  "prompts": {},
+  "sessions": {
+    "s_b46a209719b8d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9789e278-b691-4f23-8613-4fee8fe5ab11",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
