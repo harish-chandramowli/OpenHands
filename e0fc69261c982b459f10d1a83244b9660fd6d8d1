@@ -1,0 +1,22 @@
+__tests__/components/features/conversation/conversation-tabs.test.tsx
+  s_bfc7983e410962::t_2ce351de033ab6 513,528-531
+src/components/features/conversation/conversation-tabs/conversation-tabs.tsx
+  s_bfc7983e410962::t_be5777c73d674a 341
+  s_bfc7983e410962::t_cfbf573e2b496a 339-340,342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "e0fc69261c982b459f10d1a83244b9660fd6d8d1",
+  "prompts": {},
+  "sessions": {
+    "s_bfc7983e410962": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bced4d7c-b48f-41c8-b65e-ee8e133b6ee4",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+src/components/features/conversation/conversation-tabs/drawer-vscode-link.tsx
+  s_bfc7983e410962::t_5070ebb7f7ca7b 13
+  s_bfc7983e410962::t_79421291b2bbe2 29-34
+src/hooks/query/use-unified-vscode-url.ts
+  s_bfc7983e410962::t_247bfd973566e6 100-103,115-120
+  s_bfc7983e410962::t_613bca801eb895 71-73
+  s_bfc7983e410962::t_57cd72733b1fcd 134
+__tests__/hooks/use-unified-vscode-url.test.tsx
+  s_bfc7983e410962::t_55d227cd22cf2a 178-181
+  s_bfc7983e410962::t_ed6bfa8b977455 111-114
+  s_bfc7983e410962::t_8a7dbdd0c5fef8 209-257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d7ab8b9a5c0332cb34aa92d32dfc42974db97d1f",
+  "prompts": {},
+  "sessions": {
+    "s_bfc7983e410962": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bced4d7c-b48f-41c8-b65e-ee8e133b6ee4",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
