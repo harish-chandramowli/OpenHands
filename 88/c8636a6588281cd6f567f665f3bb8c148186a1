@@ -1,0 +1,23 @@
+src/hooks/query/use-unified-vscode-url.ts
+  s_c59e6ef2105d82::t_6f2fc2f2ca81ef 152-156
+src/components/features/conversation/conversation-tabs/conversation-tabs.tsx
+  s_c59e6ef2105d82::t_50edb21928652f 217-222
+__tests__/components/features/conversation/conversation-tabs.test.tsx
+  s_c59e6ef2105d82::t_bb8149719a5688 61-63,554-599
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "88c8636a6588281cd6f567f665f3bb8c148186a1",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
