@@ -1,0 +1,19 @@
+docker/entrypoint.sh
+  s_c59e6ef2105d82::t_411d8af93b613f 390-393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "a2061644d752c3bbf8e33ecc1c1e3ca17287b448",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
