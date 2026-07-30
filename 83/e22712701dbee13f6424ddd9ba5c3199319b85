@@ -1,0 +1,57 @@
+src/utils/vscode-origin.ts
+  s_c59e6ef2105d82::t_76d1a14a4f7e56 1-101
+  s_c59e6ef2105d82::t_0d49f5bf7b0569 102-109
+scripts/dev-with-automation.mjs
+  s_c59e6ef2105d82::t_22b5551c7854a6 1082-1089
+  s_c59e6ef2105d82::t_033f6955cab974 1544-1547
+  s_c59e6ef2105d82::t_8fcc4077002271 736-748
+  s_c59e6ef2105d82::t_7b66cb5f4dad9f 735,1572
+__tests__/utils/vscode-origin.test.ts
+  s_c59e6ef2105d82::t_acf67964e6c62e 1-88
+  s_c59e6ef2105d82::t_ccecd3abe4bfdc 89
+docker/entrypoint.sh
+  s_c59e6ef2105d82::t_c7bc4b41b03dd0 380-386
+  s_c59e6ef2105d82::t_ab318c311a4cbb 369
+scripts/dev-static.mjs
+  s_c59e6ef2105d82::t_c5bc9b39dd8da8 414-417
+src/hooks/query/use-unified-vscode-url.ts
+  s_c59e6ef2105d82::t_b5a88d30bb7d4b 108-111
+  s_c59e6ef2105d82::t_c73dd8fe51cfcc 177-178,180-184,189,191-192
+  s_c59e6ef2105d82::t_654796d473bef2 13-16
+  s_c59e6ef2105d82::t_d27155a9825f39 72
+  s_c59e6ef2105d82::t_2911461178012b 36-42
+  s_c59e6ef2105d82::t_ac111509ab263d 73,112,193
+__tests__/hooks/use-unified-vscode-url.test.tsx
+  s_c59e6ef2105d82::t_692a04eb7f3925 121-137,140-142
+  s_c59e6ef2105d82::t_3367e2ba6ef608 215,329-395
+  s_c59e6ef2105d82::t_846e992bab76f0 143,159,396
+scripts/static-server.mjs
+  s_c59e6ef2105d82::t_6c6a27d96c8fbd 136-145
+  s_c59e6ef2105d82::t_3e4f26ed9b900a 91
+  s_c59e6ef2105d82::t_774a7a3e48fb2b 248-254
+  s_c59e6ef2105d82::t_602fb27511a2d5 614
+  s_c59e6ef2105d82::t_759abf69d3336a 192-205,382-383
+  s_c59e6ef2105d82::t_065d8818f9a5d3 315-321,329,379-381,384,404,420,469
+__tests__/scripts/docker-vscode-route-sync.test.ts
+  s_c59e6ef2105d82::t_3884f531e761ff 150-159,175-179
+__tests__/scripts/static-server.test.ts
+  s_c59e6ef2105d82::t_cfc0fe13d07081 5,115-216
+__tests__/scripts/vscode-base-path-opt-in.test.ts
+  s_c59e6ef2105d82::t_df2c47b9a47f68 155-162,166-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "83e22712701dbee13f6424ddd9ba5c3199319b85",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
