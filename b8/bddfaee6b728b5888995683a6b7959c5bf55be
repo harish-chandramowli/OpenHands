@@ -1,0 +1,33 @@
+__tests__/hooks/use-unified-vscode-url.test.tsx
+  s_b46a209719b8d6::t_9a2015c149d9bc 203,216-219,221-226,228-274,284
+  s_b46a209719b8d6::t_c302f0d10c95dd 127-133
+  s_b46a209719b8d6::t_9caec95e0513e1 288-291
+  s_b46a209719b8d6::t_c286dba5eb92fa 89,160
+src/components/features/conversation/conversation-tabs/drawer-vscode-link.tsx
+  s_b46a209719b8d6::t_f0344be40a5473 29-31
+src/api/conversation-service/agent-server-conversation-service.api.ts
+  s_b46a209719b8d6::t_83e3f02a18129e 5
+  s_b46a209719b8d6::t_8e6167d4343e00 530-550
+src/hooks/query/use-unified-vscode-url.ts
+  s_b46a209719b8d6::t_ce9bfd19ae0ea0 2
+  s_b46a209719b8d6::t_ab28bdcee1a2de 38-72,96
+  s_b46a209719b8d6::t_710ebf7b157299 95
+  s_b46a209719b8d6::t_8a50d48871b14c 143-147,150,155-163
+  s_b46a209719b8d6::t_ed1537eba702f1 164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "b8bddfaee6b728b5888995683a6b7959c5bf55be",
+  "prompts": {},
+  "sessions": {
+    "s_b46a209719b8d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9789e278-b691-4f23-8613-4fee8fe5ab11",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
