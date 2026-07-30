@@ -1,0 +1,47 @@
+__tests__/scripts/ingress.test.ts
+  s_c59e6ef2105d82::t_a1d7858709ccb4 562-631
+scripts/ingress.mjs
+  s_c59e6ef2105d82::t_d1380728fac4fc 30
+  s_c59e6ef2105d82::t_3750096018c0a4 143
+  s_c59e6ef2105d82::t_f1fcecc72d2e35 173-174
+  s_c59e6ef2105d82::t_82ac5e84bbe55a 62-71
+  s_c59e6ef2105d82::t_36ce5c1486773c 95-97
+  s_c59e6ef2105d82::t_8dfb6a4d943e66 156-157,159-160,168-172
+  s_c59e6ef2105d82::t_7d9bfd108d69b2 43
+scripts/static-server.mjs
+  s_c59e6ef2105d82::t_404f8543927b1a 224-226
+  s_c59e6ef2105d82::t_7dae4d48dbbc6a 85
+  s_c59e6ef2105d82::t_0d3e66d7815689 568
+  s_c59e6ef2105d82::t_e43da2d24cefa0 149-158
+  s_c59e6ef2105d82::t_8943bdab2af87d 574-575,577-583
+__tests__/scripts/static-server.test.ts
+  s_c59e6ef2105d82::t_8b401ae95cd306 496-521
+__tests__/scripts/docker-vscode-route-sync.test.ts
+  s_c59e6ef2105d82::t_2901821acc2672 134,136-137,140-141,143-145,150-173
+  s_c59e6ef2105d82::t_b222362cdf45af 174
+  s_c59e6ef2105d82::t_555635db41c03d 282-329
+docker/entrypoint.sh
+  s_c59e6ef2105d82::t_576b352219b661 115-116,121-122,125-126
+  s_c59e6ef2105d82::t_93a1dca1b8af2d 408
+  s_c59e6ef2105d82::t_cc4f2e564de352 378-389
+  s_c59e6ef2105d82::t_a011a374ed1ab7 130-131
+  s_c59e6ef2105d82::t_6b97a11d88bee6 20-25
+  s_c59e6ef2105d82::t_ee998abcc12c25 368-369
+  s_c59e6ef2105d82::t_ff3e084c616785 108-114,117-120,123-124,127-129,132-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "7427083a46ca7ba26b61e8afda8a9c10820c300a",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
