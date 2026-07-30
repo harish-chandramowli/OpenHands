@@ -1,0 +1,45 @@
+scripts/dev-safe.mjs
+  s_c59e6ef2105d82::t_f27929f297954d 733-736
+  s_c59e6ef2105d82::t_049579cbdeae00 692-704,706-707,710-711
+  s_c59e6ef2105d82::t_bf0f096b567714 932-937
+  s_c59e6ef2105d82::t_4540d74ab92859 1010-1015
+  s_c59e6ef2105d82::t_305f4fdd4b9c07 272-274,630
+__tests__/scripts/dev-with-automation.test.ts
+  s_c59e6ef2105d82::t_3e0ff988f97e84 556
+scripts/dev-static.mjs
+  s_c59e6ef2105d82::t_06e54439576be5 435
+  s_c59e6ef2105d82::t_c31195a9c9250e 389-394
+  s_c59e6ef2105d82::t_7189956f60fb6b 413,436
+  s_c59e6ef2105d82::t_ea6573a888afb6 65-66
+  s_c59e6ef2105d82::t_6dfa736696b467 308-313
+  s_c59e6ef2105d82::t_c66a48df2b5b18 67,414
+scripts/dev-extra-backend.mjs
+  s_c59e6ef2105d82::t_13e651c8efaadb 174-181
+  s_c59e6ef2105d82::t_14a76651a96c4a 46-49,76,100-107,239
+__tests__/scripts/vscode-base-path-opt-in.test.ts
+  s_c59e6ef2105d82::t_7962db02dad154 1-153
+  s_c59e6ef2105d82::t_567f48bbc77970 154-158
+scripts/dev-with-automation.mjs
+  s_c59e6ef2105d82::t_14b136b6f01628 830-835
+  s_c59e6ef2105d82::t_9580236abdd723 724-734
+  s_c59e6ef2105d82::t_913008b0959a9b 723,1017,1522,1545
+vite.config.ts
+  s_c59e6ef2105d82::t_8dccca72514345 436-457
+  s_c59e6ef2105d82::t_09b64014c5d3d0 98-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "f4dbf23ec4e1c795699f60225d11710bef0471d7",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
