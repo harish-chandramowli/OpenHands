@@ -1,0 +1,25 @@
+__tests__/scripts/docker-vscode-route-sync.test.ts
+  s_b46a209719b8d6::t_02705004a49592 13-17
+  s_b46a209719b8d6::t_4e8261cd66844c 141,143-148,154-156,169-259
+  s_b46a209719b8d6::t_998b58b2241875 49-116
+docker/entrypoint.sh
+  s_b46a209719b8d6::t_c5db8fe534d48b 74-108
+  s_b46a209719b8d6::t_8ddcf7535e995e 24-27
+  s_b46a209719b8d6::t_9cc921ed73cde8 325,353
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6d033387e68005b747df2b3c9d86b8806db59bc9",
+  "prompts": {},
+  "sessions": {
+    "s_b46a209719b8d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9789e278-b691-4f23-8613-4fee8fe5ab11",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
