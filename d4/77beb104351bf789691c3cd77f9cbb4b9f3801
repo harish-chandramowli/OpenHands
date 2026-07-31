@@ -1,0 +1,25 @@
+__tests__/scripts/docker-vscode-route-sync.test.ts
+  s_c59e6ef2105d82::t_40f0a8f13c173a 319-356
+__tests__/scripts/vscode-base-path-opt-in.test.ts
+  s_c59e6ef2105d82::t_5103a0a873ef85 187-213
+docker/entrypoint.sh
+  s_c59e6ef2105d82::t_324c2450bf28fc 89-93,112-121
+scripts/dev-with-automation.mjs
+  s_c59e6ef2105d82::t_bc6df87eab25a5 1086-1093,1096
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "d477beb104351bf789691c3cd77f9cbb4b9f3801",
+  "prompts": {},
+  "sessions": {
+    "s_c59e6ef2105d82": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b0c2bf77-b821-4433-b69c-4291e12c4eae",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
