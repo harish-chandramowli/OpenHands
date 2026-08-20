@@ -1,0 +1,547 @@
+__tests__/components/features/conversation/conversation-overview-toggle.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-126
+__tests__/components/features/conversation/conversation-overview-diffs-row.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-140
+src/components/features/conversation/conversation-overview-drawer.types.ts
+  s_681442c5206985::t_465c798696bf3e 1-15
+src/components/features/conversation/conversation-tabs/conversation-tabs.tsx
+  s_681442c5206985::t_465c798696bf3e 5,95-103,144-145
+src/components/features/diff-viewer/commit-list.tsx
+  s_681442c5206985::t_465c798696bf3e 6-9,15-17,26-32,34-40,48-56,62,64
+src/components/features/settings/llm-profiles/provider-connections-manager.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-98
+src/components/features/conversation/conversation-overview-diffs-row.tsx
+  s_681442c5206985::t_465c798696bf3e 1-158
+__tests__/routes/files-tab.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1,10-13,18,29-30,55-58,64,66,70,88-91,93,95,98,102-104,107,110-111,113,117-121,127-128,131,133,136-141,143,146-149,152-154,157-165,183,195-196,199-202,205,210-212,217,219-241,262,296,331,358,371-372,375,377,381-427,430-460,464,474,477,480,484,497-499,502-503,514,542,544,549,551-556,558,560-578
+src/components/features/conversation/right-panel-toggle.tsx
+  s_681442c5206985::t_465c798696bf3e 4,23-25,49,61-63,91,101
+src/components/features/files-tab/file-quick-row.tsx
+  s_681442c5206985::t_465c798696bf3e 2,4,9-10,13,18-19,22-24,26-27,30,33,36,42,61,69-78,80,82,85-89,91-92,95-123,127-128,130-135
+src/hooks/mutation/use-delete-provider-connection.ts
+  s_681442c5206985::t_465c798696bf3e 1-25
+__tests__/components/manifest/manifest-form-field.test.tsx
+  s_681442c5206985::t_465c798696bf3e 14-17,45-54,59,74-80,92,100-106,134-244
+  s_681442c5206985::t_573dbaa9782104 245
+src/components/features/mcp-logo-badge.tsx
+  s_681442c5206985::t_465c798696bf3e 16,25
+src/utils/scroll-fade-state.ts
+  s_681442c5206985::t_465c798696bf3e 1-18
+__tests__/manifests/manifest-actions.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-114
+src/components/features/conversation/conversation-overview-mcp-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-183
+__tests__/routes/automations-list.test.tsx
+  s_681442c5206985::t_465c798696bf3e 3,25,165,209-226,362-402
+  s_681442c5206985::t_14106760b78faa 403-404
+__tests__/components/features/conversation/conversation-tabs-context-menu.test.tsx
+  s_681442c5206985::t_465c798696bf3e 65-70,75-76,142-143,149
+__tests__/routes/commits-tab.test.tsx
+  s_681442c5206985::t_465c798696bf3e 58,63-64,118-133
+__tests__/utils/tar-gzip.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-143
+src/components/features/manifest/manifest-setup-dialog.tsx
+  s_681442c5206985::t_465c798696bf3e 20,41,144-155,164,303,308
+src/components/features/settings/llm-profiles/provider-connections-manager.tsx
+  s_681442c5206985::t_465c798696bf3e 1-134
+src/hooks/use-conversation-overview-panel-peek.ts
+  s_681442c5206985::t_465c798696bf3e 1-60
+src/utils/git-diff-stats.ts
+  s_681442c5206985::t_465c798696bf3e 1-106
+tests/e2e/mock-llm/files/mock-llm-files-and-git.spec.ts
+  s_681442c5206985::t_465c798696bf3e 2,9,34,70,191,193,209-228,232-235,237-238,241,247,249,261,272-280,375-379,382-385,388-404
+src/routes/commits-tab.tsx
+  s_681442c5206985::t_465c798696bf3e 1,6,13,26-40,45-49,59-65,76,82
+src/hooks/use-conversation-overview-git-diff-stats.ts
+  s_681442c5206985::t_465c798696bf3e 1-81
+__tests__/components/features/conversation/right-panel-toggle.test.tsx
+  s_681442c5206985::t_465c798696bf3e 64-67,87-90
+__tests__/components/automations/to-latest-run-state.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-52
+__tests__/scripts/dev-static.test.ts
+  s_681442c5206985::t_465c798696bf3e 3-6,22,30-41
+  s_681442c5206985::t_ddf7a31628037a 42
+__tests__/components/automations/automation-card.test.tsx
+  s_681442c5206985::t_465c798696bf3e 5-10,13-16,20,32,37-62,77,79-99,117,119,128-171
+src/hooks/mutation/use-switch-acp-model.ts
+  s_681442c5206985::t_465c798696bf3e 39-43,64-70,75,78,103-107
+src/utils/handle-event-for-ui.ts
+  s_681442c5206985::t_465c798696bf3e 120-131,200-205,276,285-291
+__tests__/components/features/chat/plan-preview.test.tsx
+  s_681442c5206985::t_465c798696bf3e 211,383-385,393,414-416,424
+src/stores/use-event-store.ts
+  s_681442c5206985::t_465c798696bf3e 94-100,105,113,170-173,177
+src/components/features/markdown/markdown-table-scroll.tsx
+  s_681442c5206985::t_465c798696bf3e 3-8
+src/utils/conversation-overview-project-scope.ts
+  s_681442c5206985::t_465c798696bf3e 1-116
+config/defaults.json
+  s_681442c5206985::t_465c798696bf3e 6
+src/manifests/types.ts
+  s_681442c5206985::t_465c798696bf3e 55-60,76-114,121-122,173-181,275-281,316
+src/utils/conversation-metrics.ts
+  s_681442c5206985::t_465c798696bf3e 4,10,12-13,74-78
+  s_681442c5206985::t_961ea1378e0f50 79
+src/components/features/sidebar/sidebar-onboarding-checklist-item-icon.tsx
+  s_681442c5206985::t_465c798696bf3e 1-123
+src/components/features/sidebar/sidebar-onboarding-checklist-storage.ts
+  s_681442c5206985::t_465c798696bf3e 1-117
+src/components/features/conversation/conversation-main/conversation-main.tsx
+  s_681442c5206985::t_465c798696bf3e 14-15,27-28,65-71,78-79,135-138
+__tests__/routes/automations-subpages-absent.test.tsx
+  s_681442c5206985::t_465c798696bf3e 108
+scripts/dev-with-automation.mjs
+  s_681442c5206985::t_1d336c0decbffb 1679
+  s_681442c5206985::t_465c798696bf3e 742-748,762,996,999,1224,1559,1674
+  s_681442c5206985::t_82226a226fd9b0 1677
+src/hooks/use-select-conversation-tab.ts
+  s_681442c5206985::t_465c798696bf3e 22-23,25,28,31-36,49,53,55,66-77,89-90
+src/components/features/settings/llm-profiles/profiles-body.tsx
+  s_681442c5206985::t_465c798696bf3e 20-26,35-81,88,98-117,152-159,161-174
+__tests__/scripts/dev-with-automation.test.ts
+  s_681442c5206985::t_465c798696bf3e 24,712-719
+  s_681442c5206985::t_7dba1a8440c736 720-723
+src/components/features/automations/create-instructions.tsx
+  s_681442c5206985::t_465c798696bf3e 71,76,80-82,135
+src/hooks/use-conversation-overview-stats.ts
+  s_681442c5206985::t_465c798696bf3e 1-28
+src/hooks/use-conversation-overview-column-space.ts
+  s_681442c5206985::t_465c798696bf3e 1-40
+src/components/features/automations/add-automation-menu.tsx
+  s_681442c5206985::t_465c798696bf3e 1-151
+__tests__/stores/use-event-store.test.ts
+  s_681442c5206985::t_465c798696bf3e 181-184,201-224
+src/components/features/automations/dashboard/use-automation-sub-page-nav.ts
+  s_681442c5206985::t_465c798696bf3e 33-38
+src/hooks/mutation/use-create-conversation.ts
+  s_681442c5206985::t_465c798696bf3e 133-136,181,193-213,287-292,297
+src/manifests/manifest-actions.ts
+  s_681442c5206985::t_465c798696bf3e 9-13,16,24-29,43-50,84-110
+src/utils/tar-gzip.ts
+  s_681442c5206985::t_465c798696bf3e 1-119
+__tests__/components/features/conversation/conversation-git-actions-toggle.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-84
+src/components/features/settings/llm-profiles/profile-row.tsx
+  s_681442c5206985::t_465c798696bf3e 2,76-84
+  s_681442c5206985::t_7fa03daca993c6 85
+src/components/features/conversation/conversation-overview-drawer.constants.ts
+  s_681442c5206985::t_465c798696bf3e 1-12
+src/hooks/mutation/use-update-provider-connection.ts
+  s_681442c5206985::t_465c798696bf3e 1-34
+src/components/features/settings/llm-profiles/delete-provider-connection-modal.tsx
+  s_681442c5206985::t_465c798696bf3e 1-96
+src/components/features/files-tab/tree-node.tsx
+  s_681442c5206985::t_465c798696bf3e 2,42,44-48
+src/components/features/conversation/conversation-overview-git-section.tsx
+  s_681442c5206985::t_465c798696bf3e 1-258
+__tests__/router.md
+  s_681442c5206985::t_465c798696bf3e 221
+__tests__/utils/parse-git-remote-url.test.ts
+  s_681442c5206985::t_465c798696bf3e 23-29
+__tests__/components/features/sidebar/sidebar-onboarding-checklist-item-preview.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-90
+src/components/features/automations/import-automation-modal.tsx
+  s_681442c5206985::t_465c798696bf3e 1-2,5,20,36-135,142,146,148-149,158-159,170,182-186,189-210,212-243
+src/api/git-provider-items-service.ts
+  s_681442c5206985::t_465c798696bf3e 1-290
+package.json
+  s_681442c5206985::t_465c798696bf3e 26
+src/components/features/manifest/manifest-icons.ts
+  s_681442c5206985::t_465c798696bf3e 6,21
+src/routes/automations-list.tsx
+  s_681442c5206985::t_465c798696bf3e 1-2,35,117,231,255,388-390,529,532-535,537
+__tests__/conversation-local-storage.test.ts
+  s_681442c5206985::t_465c798696bf3e 53-59,65,68-73,79,83,149-172,230-249,252,266,564-567,569-572,576,651-690
+  s_681442c5206985::t_501967acf6902a 691
+src/hooks/query/query-keys.ts
+  s_681442c5206985::t_465c798696bf3e 29-32
+src/utils/recommended-automation-rail.ts
+  s_681442c5206985::t_465c798696bf3e 1-99
+__tests__/components/features/skills/skill-card-pill-row.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-5,12-15,19-26,29-30,33-61,63-80,88-194
+src/components/features/diff-viewer/editor-container.tsx
+  s_681442c5206985::t_465c798696bf3e 2,7,10-14,18-21
+src/components/features/automations/automation-card-skeleton.tsx
+  s_681442c5206985::t_465c798696bf3e 11,14-18,23
+src/components/features/settings/settings-input.tsx
+  s_681442c5206985::t_465c798696bf3e 28-33,79,129
+__tests__/manifests/automation-insights.test.ts
+  s_681442c5206985::t_465c798696bf3e 52,161
+src/components/features/settings/app-settings/getting-started-checklist-switch.tsx
+  s_681442c5206985::t_465c798696bf3e 1-24
+src/components/features/conversation/conversation-overview-toggle.tsx
+  s_681442c5206985::t_465c798696bf3e 1-183
+__tests__/components/features/diff-viewer/diff-change-list.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-84
+src/components/features/home/featured-automations/pinned-automations-dashboard.tsx
+  s_681442c5206985::t_465c798696bf3e 13-14,75
+src/manifests/manifest-template.ts
+  s_681442c5206985::t_465c798696bf3e 33-34,39-73
+  s_681442c5206985::t_da91b61279a0b3 74
+src/routes/files-tab.tsx
+  s_681442c5206985::t_465c798696bf3e 1,12-16,25,27-34,37,39-42,46,49-50,56,59-62,64-77,86,88-91,98-99,102,119-122,124,126-132,135-145,148-166,172-175,177-194,196-224,226-250
+__tests__/hooks/mutation/use-create-conversation.test.tsx
+  s_681442c5206985::t_465c798696bf3e 101,514-518,537,565-745
+src/components/features/settings/llm-profiles/provider-connection-row.tsx
+  s_681442c5206985::t_465c798696bf3e 1-73
+src/components/features/automations/empty-state.tsx
+  s_681442c5206985::t_465c798696bf3e 5,17,20-22
+  s_681442c5206985::t_9141cb6adb5708 23
+src/components/features/conversation/conversation-tabs/conversation-tabs-context-menu.tsx
+  s_681442c5206985::t_465c798696bf3e 14,100-104
+src/components/features/onboarding/onboarding-modal.tsx
+  s_681442c5206985::t_465c798696bf3e 5-8,184-185,200-207,331,396-407
+  s_681442c5206985::t_7ab7282f27de45 408
+src/utils/extension-module-card-classes.ts
+  s_681442c5206985::t_465c798696bf3e 14
+__tests__/manifests/automation-setup.test.ts
+  s_681442c5206985::t_465c798696bf3e 19-32,47-52,56-61,77-78,124-125,210-211,213,216-219,228,233-235,242-283,323,343-346,352-357,377-378,380,383-385
+src/components/features/conversation/conversation-overview-git-items-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-158
+__tests__/components/settings/llm-profiles/llm-settings-local-view.test.tsx
+  s_681442c5206985::t_465c798696bf3e 19,658-681
+src/stores/files-tab-store.ts
+  s_681442c5206985::t_465c798696bf3e 2,12-16,21-75,83,85-139
+__tests__/manifests/manifest-validation.test.ts
+  s_681442c5206985::t_465c798696bf3e 3,10-22,182-381
+  s_681442c5206985::t_3252d60fd8853e 382
+src/components/ui/resize-handle.tsx
+  s_681442c5206985::t_465c798696bf3e 9,16,23
+src/routes/llm-settings.tsx
+  s_681442c5206985::t_465c798696bf3e 36,42-47,52,139,154-159,163-168,253-306,447-449,453-460,486,495-508,510-518,527-528
+src/manifests/manifest-validation.ts
+  s_681442c5206985::t_465c798696bf3e 19-23,30-37,132-170,262-273,387-495,503-517,549
+src/components/features/skills/skill-card-pill-row.tsx
+  s_681442c5206985::t_465c798696bf3e 2,13-30,66-67,69-73,86-90,92-96,98,109-171,175-185,188,211-213,215-222,225,229,232-270
+src/manifests/interface-validation.ts
+  s_681442c5206985::t_465c798696bf3e 68-73,632-636,652-656
+src/api/automation-service/automation-service.api.ts
+  s_681442c5206985::t_465c798696bf3e 24-26,34,592-593,596,615-675
+  s_681442c5206985::t_e25c15e0b123b8 23,676-677
+src/components/features/automations/recommended-automations-launcher.tsx
+  s_681442c5206985::t_465c798696bf3e 27-30,37-38,47-52,76-77,99-103,272-275,280-281,284-298
+__tests__/utils/extension-module-card-classes.test.ts
+  s_681442c5206985::t_465c798696bf3e 8,29-31
+  s_681442c5206985::t_d9522e9ebd7cd3 32-34
+src/components/features/sidebar/sidebar-onboarding-checklist-item-preview.tsx
+  s_681442c5206985::t_465c798696bf3e 1-87
+__tests__/utils/streaming-delta-batcher.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-239
+src/components/features/automations/detail/run-status-badge.tsx
+  s_681442c5206985::t_465c798696bf3e 30,35,40,45,50,55,149,151-152
+src/components/features/conversation/conversation-overview-project-scope-toggle.tsx
+  s_681442c5206985::t_465c798696bf3e 1-42
+src/components/features/diff-viewer/commit-row.tsx
+  s_681442c5206985::t_465c798696bf3e 6,8-9,22,46,48,62-72,75-88
+src/components/features/conversation/conversation-main/chat-interface-wrapper.tsx
+  s_681442c5206985::t_465c798696bf3e 1-2,4-11,17-19,23-36,38-45,47-71
+src/hooks/query/use-provider-connections.ts
+  s_681442c5206985::t_465c798696bf3e 1-27
+src/i18n/translation.json
+  s_681442c5206985::t_465c798696bf3e 12395-12479,12854-12887,27049-27065,36569-37724,38762-39237,40206-40528
+__tests__/components/features/conversation/conversation-overview-skills-panel.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-106
+src/manifests/automation-setup.ts
+  s_681442c5206985::t_465c798696bf3e 16-17,20-25,28,39-42,44-47,51-107,141-165,188-189,192-194,198,201,205,207-213,216-219,221-254,256-294,299-324,338
+__tests__/components/features/sidebar/sidebar-onboarding-checklist.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-288
+__tests__/utils/conversation-overview-project-scope.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-130
+src/components/features/automations/recommended-automations-section.tsx
+  s_681442c5206985::t_465c798696bf3e 30,37,50,214-215
+src/components/features/files-tab/file-content-viewer.tsx
+  s_681442c5206985::t_465c798696bf3e 141-149
+__tests__/components/features/diff-viewer/file-diff-viewer.test.tsx
+  s_681442c5206985::t_465c798696bf3e 4-7,54-58,61-66,69,75-76
+src/components/features/settings/llm-profiles/llm-profiles-manager.tsx
+  s_681442c5206985::t_465c798696bf3e 1,7,13,17,40-47,57-70,123-155,158-165
+src/components/features/sidebar/sidebar-onboarding-checklist-llm-complete.ts
+  s_681442c5206985::t_465c798696bf3e 1-50
+src/components/features/automations/kebab-menu.tsx
+  s_681442c5206985::t_465c798696bf3e 8,21,24,114
+__tests__/manifests/manifest-bundle.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-177
+src/routes/automation-templates.tsx
+  s_681442c5206985::t_465c798696bf3e 37
+.github/scripts/tests/test_pr_description.py
+  s_681442c5206985::t_465c798696bf3e 11-12,227-246
+__tests__/components/features/home/home-chat-launcher.test.tsx
+  s_681442c5206985::t_465c798696bf3e 204-216,597-603
+  s_681442c5206985::t_351c6c35958d6f 604
+src/components/features/settings/llm-profiles/profiles-body.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-61
+src/components/features/manifest/manifest-repository-list.tsx
+  s_681442c5206985::t_465c798696bf3e 1-141
+__tests__/components/features/sidebar/sidebar.test.tsx
+  s_681442c5206985::t_465c798696bf3e 54-68,92-97,472-486
+  s_681442c5206985::t_ad6fd7a3a5cc99 487-488
+__tests__/routes/llm-settings.test.tsx
+  s_681442c5206985::t_465c798696bf3e 15-17,344-434
+  s_681442c5206985::t_8f3d055e931d3f 435-436
+src/components/features/conversation/conversation-overview-sections.ts
+  s_681442c5206985::t_465c798696bf3e 1-83
+src/components/features/home/featured-automations/pinned-automation-card.tsx
+  s_681442c5206985::t_465c798696bf3e 2-3,5,8-9,11-12,22-26,50-52,85-90,104,152-154,165-167,169-179,181-187,189,191,193-207,209-219,221-226,228-241,243-248,250-251,253,342-349
+  s_681442c5206985::t_241b98fab73deb 350
+__tests__/api/agent-server-conversation-service.test.ts
+  s_681442c5206985::t_465c798696bf3e 639-682
+__tests__/hooks/use-select-conversation-tab.test.ts
+  s_681442c5206985::t_465c798696bf3e 40,43,49,67,69,71-72,74,150-219
+  s_681442c5206985::t_76da39c60858b0 220
+src/components/features/sidebar/use-sidebar-onboarding-checklist-dismissed.ts
+  s_681442c5206985::t_465c798696bf3e 1-13
+src/components/shared/filters/enum-filter-dropdown.tsx
+  s_681442c5206985::t_465c798696bf3e 22-24,35-36,56-60,72
+src/components/features/conversation/conversation-overview-panel.constants.ts
+  s_681442c5206985::t_465c798696bf3e 1-54
+scripts/check-translation-completeness.cjs
+  s_681442c5206985::t_465c798696bf3e 29-32
+__tests__/components/settings/app-settings/getting-started-checklist-switch.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-48
+src/hooks/query/use-latest-automation-runs.ts
+  s_681442c5206985::t_465c798696bf3e 29-30,90
+src/components/features/settings/llm-profiles/llm-settings-local-view.tsx
+  s_681442c5206985::t_465c798696bf3e 12-16,111-114,208-214,289-295,299-305,311-313,359-372,413,491,496
+src/manifests/manifest-error-map.ts
+  s_681442c5206985::t_465c798696bf3e 110-125,137
+src/routes/app-settings.tsx
+  s_681442c5206985::t_465c798696bf3e 14,223
+  s_681442c5206985::t_2935cb2bdcd833 224
+src/stores/conversation-store.ts
+  s_681442c5206985::t_465c798696bf3e 10,19-20,28-29,31,54-55,57-59,128-129,131,152-161,165-166
+  s_681442c5206985::t_f59f4079e7de77 167
+__tests__/components/manifest/manifest-setup-dialog.test.tsx
+  s_681442c5206985::t_465c798696bf3e 25,56-64,111-113,127-155,256-260,273-307
+  s_681442c5206985::t_81c7cdbe0920d8 308
+src/api/profiles-service/profiles-service.api.ts
+  s_681442c5206985::t_465c798696bf3e 23-31,44-61
+  s_681442c5206985::t_99a0250c83f38b 62
+src/routes/conversation.tsx
+  s_681442c5206985::t_465c798696bf3e 26,196-208
+src/components/features/automations/automation-card.tsx
+  s_681442c5206985::t_465c798696bf3e 1,6,12,14-19,24-27,29-33,63,90-104,111-113,116,121-124,126-152,154-159,161-181,184,187-210,212-247,251-256
+src/components/features/chat/chat-interface.tsx
+  s_681442c5206985::t_465c798696bf3e 66-67,137-139,141,160-166
+src/components/features/skills/skill-detail-modal.tsx
+  s_681442c5206985::t_465c798696bf3e 103,106,147,150-151,153-155,157-169,171-178,180-185,187-194,196-199,220
+src/api/provider-connections-service/provider-connections-service.api.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-130
+scripts/dev-static.mjs
+  s_681442c5206985::t_4752549a1f902b 67,70,293-303,305-311,439
+  s_681442c5206985::t_465c798696bf3e 304,312-313,362,473,623,643-648
+src/components/features/diff-viewer/accordion-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-54
+__tests__/utils/recommended-automation-rail.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-92
+src/components/features/automations/recommended-automations-rail.tsx
+  s_681442c5206985::t_465c798696bf3e 1-200
+docs/README.md
+  s_681442c5206985::t_465c798696bf3e 9-10
+src/api/provider-connections-service/provider-connections-service.api.ts
+  s_681442c5206985::t_465c798696bf3e 1-111
+src/hooks/use-conversation-overview-add-intent.ts
+  s_681442c5206985::t_465c798696bf3e 1-28
+src/hooks/query/use-repository-git-items.ts
+  s_681442c5206985::t_465c798696bf3e 1-30
+src/icons/play.svg
+  s_681442c5206985::t_465c798696bf3e 2-4
+src/components/features/automations/to-latest-run-state.ts
+  s_681442c5206985::t_465c798696bf3e 1-47
+__tests__/components/features/conversation/conversation-overview-drawer-content.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-260
+__tests__/components/features/conversation/conversation-tabs.test.tsx
+  s_681442c5206985::t_465c798696bf3e 87-88,109,168,192,200,208-211,226,229-230,232,240-243,298,309,311-315,349,380
+src/components/features/files-tab/workspace-path.tsx
+  s_681442c5206985::t_465c798696bf3e 1-53
+__tests__/components/automations/recommended-automations-rail.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-309
+__tests__/components/features/conversation/chat-interface-wrapper.test.tsx
+  s_681442c5206985::t_465c798696bf3e 2,4,10-26,28-36,48-79,81
+  s_681442c5206985::t_80d0fe1106cb17 80
+__tests__/utils/handle-event-for-ui.test.ts
+  s_681442c5206985::t_465c798696bf3e 745-779
+__tests__/manifests/manifest-error-map.test.ts
+  s_681442c5206985::t_465c798696bf3e 108-124
+__tests__/components/automations/detail/run-status-badge.test.tsx
+  s_681442c5206985::t_465c798696bf3e 58-66
+__tests__/components/chat/chat-interface.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1036-1144
+__tests__/hooks/use-websocket.test.ts
+  s_681442c5206985::t_465c798696bf3e 59-64,72,74,123,125-127,144-147,461,463,469,471
+src/components/features/files-tab/segmented-toggle.tsx
+  s_681442c5206985::t_465c798696bf3e 16-18,23,31-32,39-43,58-59,65
+src/hooks/use-manifest-preflight.ts
+  s_681442c5206985::t_465c798696bf3e 61-69,71-72
+src/components/features/conversation/conversation-overview-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-182
+.github/scripts/check_pr_description.py
+  s_681442c5206985::t_465c798696bf3e 60-61,160-162
+src/components/features/files-tab/files-tab-tree.constants.ts
+  s_681442c5206985::t_465c798696bf3e 1-10
+src/hooks/use-websocket.ts
+  s_681442c5206985::t_465c798696bf3e 17,66-68
+src/hooks/use-conversation-primary-repository.ts
+  s_681442c5206985::t_465c798696bf3e 1-35
+__tests__/components/automations/recommended-automations.test.tsx
+  s_681442c5206985::t_465c798696bf3e 27,107-113,120,379-411,413,472,542,544-545,547-558,877-922
+  s_681442c5206985::t_0513d61a9b801c 923-924
+src/components/features/diff-viewer/file-diff-viewer.tsx
+  s_681442c5206985::t_465c798696bf3e 18,24,43-49,89-95,98-104,106-119,153-158,160,166-169,173-179,198,207-231,234-249,258,269-279,286-287,289-300,302-305,307,314,329-338,343-354
+src/components/features/conversation/conversation-overview-skills-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-259
+src/components/features/diff-viewer/uncommitted-changes-row.tsx
+  s_681442c5206985::t_465c798696bf3e 1-74
+src/utils/streaming-delta-batcher.ts
+  s_681442c5206985::t_465c798696bf3e 1-75
+src/components/features/conversation/conversation-overview-drawer-content.tsx
+  s_681442c5206985::t_465c798696bf3e 1-227
+__tests__/components/features/sidebar/sidebar-onboarding-checklist-llm-complete.test.ts
+  s_681442c5206985::t_465c798696bf3e 1-82
+src/components/features/conversation/conversation-overview-secrets-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-139
+__tests__/components/features/conversation/conversation-overview-panel.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-289
+__tests__/components/automations/build-automation-pills.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-82
+__tests__/components/features/files-tab/workspace-path.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-76
+src/components/features/automations/automation-list-row.tsx
+  s_681442c5206985::t_465c798696bf3e 1,3,9,14-15,18-21,23-25,27-33,35,59,79-101,104,106,108-184,186-197,199-209,211-220
+src/components/features/home/git-repo-dropdown/use-url-search.tsx
+  s_681442c5206985::t_465c798696bf3e 41-42
+src/components/features/sidebar/sidebar-onboarding-checklist.tsx
+  s_681442c5206985::t_465c798696bf3e 1-208
+src/manifests/manifest-local-validation.ts
+  s_681442c5206985::t_465c798696bf3e 19,88-103,109-111,119,122,124,128-141
+src/components/features/automations/automation-view-mode.ts
+  s_681442c5206985::t_465c798696bf3e 18-27
+src/components/features/home/featured-automations/running-automations-list.tsx
+  s_681442c5206985::t_465c798696bf3e 36-38,100,263,298
+  s_681442c5206985::t_409fa7cedb2e5b 35
+__tests__/components/features/home/featured-automations-section.test.tsx
+  s_681442c5206985::t_465c798696bf3e 14,404-415,417,436-438
+  s_681442c5206985::t_351c3be14d1a7e 439
+__tests__/hooks/mutation/use-switch-acp-model.test.tsx
+  s_681442c5206985::t_465c798696bf3e 170-173,175,183,186
+__tests__/contexts/conversation-websocket-context.test.tsx
+  s_681442c5206985::t_465c798696bf3e 20,684-801
+  s_681442c5206985::t_f11ad8951ac5dd 802
+src/components/features/conversation/conversation-git-actions-toggle.tsx
+  s_681442c5206985::t_465c798696bf3e 1-115
+__tests__/components/onboarding/onboarding-modal.test.tsx
+  s_681442c5206985::t_465c798696bf3e 17,178-181,195-198,745-750,1144-1187
+  s_681442c5206985::t_e96d9ffd0e5234 1188
+src/components/features/conversation/conversation-overview-drawer.tsx
+  s_681442c5206985::t_465c798696bf3e 1-92
+src/components/features/settings/brand-button.tsx
+  s_681442c5206985::t_465c798696bf3e 18-19,38-39,55-56
+__tests__/components/features/conversation/conversation-name-with-status.test.tsx
+  s_681442c5206985::t_465c798696bf3e 33-35
+src/hooks/use-resizable-drawer-width.ts
+  s_681442c5206985::t_465c798696bf3e 1-126
+src/utils/utils.ts
+  s_681442c5206985::t_465c798696bf3e 391-395
+src/components/features/home/home-chat-launcher.tsx
+  s_681442c5206985::t_465c798696bf3e 31,266
+src/components/features/conversation/conversation-tabs/conversation-tab-content/conversation-tab-content.tsx
+  s_681442c5206985::t_465c798696bf3e 13,23
+src/components/features/automations/automation-group.tsx
+  s_681442c5206985::t_465c798696bf3e 7,82-101
+src/components/features/conversation/conversation-overview-context-menu.tsx
+  s_681442c5206985::t_465c798696bf3e 1-420
+src/fixtures/home-automations-demo.ts
+  s_681442c5206985::t_465c798696bf3e 31,41
+src/utils/parse-git-remote-url.ts
+  s_681442c5206985::t_465c798696bf3e 47
+src/components/features/automations/dashboard/automations-dashboard-controls.tsx
+  s_681442c5206985::t_465c798696bf3e 1-4,6,13-29,50-53,64-86,88-178
+src/hooks/use-drag-scroll.ts
+  s_681442c5206985::t_465c798696bf3e 1-94
+__tests__/routes/automations-dashboard.test.tsx
+  s_681442c5206985::t_465c798696bf3e 110,113,156,159-160,171,173,177,179,196-278,284-289
+src/utils/conversation-local-storage.ts
+  s_681442c5206985::t_465c798696bf3e 7-12,40-41,45,47-49,54-59,65-66,70,73-75,80,109,114,117,119-123,128,135-152,166-203,343-344,347,350-354,418-421,424,429-435
+src/api/agent-server-adapter.ts
+  s_681442c5206985::t_465c798696bf3e 25,28,68-73,386
+src/components/features/conversation/conversation-overview-drawer-context.tsx
+  s_681442c5206985::t_465c798696bf3e 1-92
+src/contexts/conversation-websocket-context.tsx
+  s_681442c5206985::t_465c798696bf3e 41,44-47,162-181,526-536,554-561,786-793
+__tests__/api/backend-registry/url-selection.test.ts
+  s_681442c5206985::t_465c798696bf3e 66-132
+src/manifests/automation-insights.ts
+  s_681442c5206985::t_465c798696bf3e 55-56,97
+src/components/features/conversation/conversation-git-actions-menu.tsx
+  s_681442c5206985::t_465c798696bf3e 1-166
+src/manifests/automation-interface.ts
+  s_681442c5206985::t_465c798696bf3e 45-52,128-132,134
+src/components/features/manifest/manifest-review-step.tsx
+  s_681442c5206985::t_465c798696bf3e 3-6,32-34
+src/components/features/diff-viewer/diff-change-list.tsx
+  s_681442c5206985::t_465c798696bf3e 1-44
+src/components/features/settings/llm-profiles/provider-connection-modal.tsx
+  s_681442c5206985::t_465c798696bf3e 1-206
+src/components/features/conversation/conversation-secondary-drawer.classes.ts
+  s_681442c5206985::t_465c798696bf3e 1-16
+src/manifests/manifest-bundle.ts
+  s_681442c5206985::t_465c798696bf3e 1-104
+src/components/features/sidebar/sidebar-onboarding-checklist.constants.ts
+  s_681442c5206985::t_465c798696bf3e 1-121
+__tests__/scripts/vscode-base-path-opt-in.test.ts
+  s_681442c5206985::t_0cf3f1a40bdac1 131
+  s_681442c5206985::t_083be21ca2fbb6 127-128
+  s_681442c5206985::t_a8484e33029ffc 129,212-214
+scripts/seed-automation-ux-data.mjs
+  s_681442c5206985::t_465c798696bf3e 1-810
+src/components/features/automations/import-automation-modal.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1,6,39-89,98,103,112,115,120
+src/components/features/conversation/conversation-name-with-status.tsx
+  s_681442c5206985::t_465c798696bf3e 15-16,149-153
+src/components/features/manifest/manifest-form-field.tsx
+  s_681442c5206985::t_465c798696bf3e 10-11,15,22-23,31,67-91,99,131,154,177,186
+src/components/features/automations/automation-run-insights.tsx
+  s_681442c5206985::t_465c798696bf3e 60
+src/hooks/mutation/use-create-provider-connection.ts
+  s_681442c5206985::t_465c798696bf3e 1-21
+__tests__/components/features/home/use-url-search.test.tsx
+  s_681442c5206985::t_465c798696bf3e 241-280
+__tests__/components/automations/automation-list-row.test.tsx
+  s_681442c5206985::t_465c798696bf3e 5-10,13-16,20,32-36,43-68,70,85-86,88-89,98-134
+  s_681442c5206985::t_b1cc080471ebf3 135-136
+src/components/features/sidebar/sidebar-rail-body.tsx
+  s_681442c5206985::t_465c798696bf3e 27,316-329
+__tests__/components/features/diff-viewer/commit-list.test.tsx
+  s_681442c5206985::t_465c798696bf3e 1-177
+src/components/features/conversation/conversation-overview-automations-panel.tsx
+  s_681442c5206985::t_465c798696bf3e 1-84
+src/components/features/sidebar/use-sidebar-onboarding-checklist.ts
+  s_681442c5206985::t_465c798696bf3e 1-159
+src/utils/automation-stack-section.ts
+  s_681442c5206985::t_465c798696bf3e 1-2
+__tests__/api/agent-server-adapter.test.ts
+  s_681442c5206985::t_465c798696bf3e 921-1007
+src/api/backend-registry/url-selection.ts
+  s_681442c5206985::t_465c798696bf3e 22-23,32-44,49
+src/components/features/automations/build-automation-pills.tsx
+  s_681442c5206985::t_465c798696bf3e 4-5,7,11-16,37-48,50-77
+src/api/conversation-service/agent-server-conversation-service.api.ts
+  s_681442c5206985::t_465c798696bf3e 70,140-149,259,701,713
+package-lock.json
+  s_681442c5206985::t_baf6094009dd3a 16,4167-4169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d55aaac61f83a8656e5559425cd0e4e637513b67",
+  "prompts": {},
+  "sessions": {
+    "s_681442c5206985": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5c7ada63-7048-4990-9ddd-a04ccc7d8d17",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Harish Chandramowli <harish@flairesoftware.com>"
+    }
+  }
+}
